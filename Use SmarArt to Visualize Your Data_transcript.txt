@@ -1,0 +1,193 @@
+Welcome back. In the last task, you learned how to insert
+a Youtube video to your slides.
+Starting your video at a certain time stamp, resizing
+the video on the slide and adding a title on top of the video.
+In this task you learn how to use SmartArt in your
+presentation.
+A SmartArt graphic is a visual representation of your
+information and ideas.
+You create one by choosing a layout that fits your message.
+Now go to the first slide.
+You will see a company's product release, timeline
+and future opportunities.
+Let's make the slide more interesting.
+And visual through SmartArt.
+Let's see the different types of SmartArt that we can use.
+First of all we go to the menu bar, click insert.
+Then here you click on the SmartArt and you have different
+types of SmartArt. A list, a cycle, a process, hierarchy
+and timeline.
+A few options to choose from here.
+I know it can be confusing at first, but let me guide you.
+When do you choose list?
+You choose list when you want to show non-sequential
+information.
+You pick cycle when you want to show a continual process
+and you pick process when you want to show steps in a process
+or timeline and you can pick hierarchy when you want to show
+an organizational chart or a decision tree.
+And finally, you have timeline to show a timeline.
+In our case there is a timeline we want to visualize.
+So we can pick either process or we can just pick timeline
+and I think timeline in this case seems more convenient.
+So let's pick a shape that looks fitting maybe this one.
+So as usual the shape is inserted in the middle of the slide.
+So let's move it here.
+...
+And for now let's move this text down.
+Let's drag it down here.
+Just here is good.
+And then move this text as well.
+Here is good.
+And let's move our SmartArt to be here as we're going to
+transfer the information of this timeline to the SmartArt.
+So let's make it visual.
+Maybe we can move this SmartArt a bit of the right.
+And move this a bit to the left.
+We are going to rearrange the whole slide again
+after we finish the SmartArt.
+So let's start. When you click on the SmartArt, there's a
+text pane that appears here.
+The text pane has two levels.
+The first level is the one inside the arrow and the second
+level is the text that appears here.
+As you can see here the default of a SmartArt timeline is
+only three arrows and in our timeline we actually have five
+months.
+So we want to do five arrows on two levels.
+So to do that, you just go to the last bullet and click enter
+and since we have pressed enter after a second level,
+bullet by default, the new bullet is on the second level and
+that doesn't solve our problem and doesn't create a new arrow
+to the timeline.
+So to promote this bullet to be a first level instead of a
+second level in the menu bar, SmartArt. You'll see two hours
+here, one is promote and the other is demote.
+In our case, we want to promote the bullet, so we click this
+arrow and here you go, it has been promoted to first level
+and now we have four arrows, but here the second level is
+empty, so again we press enter and it creates a new level,
+but we want this level to be a second level, not a first
+level. So again we go to the menu bar and click on demote.
+So now we have four arrows with first and second levels.
+So let's repeat these steps to add one more month to the
+timeline.
+Again I press enter then promote, enter again, and demote.
+So now let's transfer that timeline.
+That's a text right now to the SmartArt.
+So in the first level we want to have the months written
+inside them and in the second level, we want to have the
+step name.
+So let's start, first of all is January, where there is
+initiation, then there is February, where there is negotiation then
+March where we have standardization then April and down and
+debriefing then in May we do the handing over and here you go.
+All the information are now transferred inside the SmartArt
+January, initiation, February, negotiation and all of the
+months. Now we don't need the text of the timeline here
+because we already transferred it to the SmartArt.
+So let's go to the shape, click on the shape.
+And press delete.
+Oh here you go.
+And then put the shape here.
+Delete again. Delete.
+And finally click on this shape and press delete to delete it.
+Now we have a cleaner slide.
+So let's maximize our SmartArt to fill the slide.
+You click on it and drag its edge to extend it to the slide
+and let's fit it like that.
+As you can see the font size was automatically adjusted
+but we still can do some more adjustments like font type and
+font color and we can make it bolder.
+You can just select the text you want to amend here in the
+text pane.
+You can select for the example othis one and change its
+font or you can choose another color for it.
+Let's say red.
+It's an important phase.
+So we want to make it in red here.
+Here, tt changes to red and also May is an important month for us.
+So we want to highlight it, make it more visual.
+So we can select the text that says May inside the text pane
+and choose bold and inside the SmartArt would be bolder than the
+other months and we're not done yet.
+You can actually kind of change the shape of the SmartArt.
+You can keep the timeline, you can keep the arrows and the
+first and secnd levels and at the same time change the shape and
+the color of the SmartArt.
+So in the menu bar, you click on SmartArt, you can click
+here to see some color options.
+These are your options, you can make it colorful, you can
+make it one color and you can make one color with different
+shades.
+So let's pick a colorful one just for fun.
+And here you go.
+Each month has a different color and you can also change the
+shape or the style of your SmartArt by clicking here.
+A SmartArt style is a combination of effects such as
+line style, bevel or 3D.
+You can pick one that fits your presentation style.
+So here let's try one of them.
+Maybe you can try this one.
+I think it looks nice.
+So now to make the slide look nicer.
+Let's realign the elements in our slide.
+First of all is the slide title.
+We can move it a bit to the corner.
+Here is good. and let's move our SmartArt a bit to the
+left so it can be in the center of the slide and let's move
+the text to the center of the slide as well.
+You will probably not be able to pick this text because the
+SmartArt is on top of it.
+So you select the SmartArt, then click on these three dots
+in the menu bar.
+Arrange, click on it, and and "Send to back".
+Now you'll be able to select this text.
+So let's move it to the center.
+And let's pick this and move to the center as well.
+And now we have a nice-looking slide with visual data instead
+of text which is more engaging and it would make your
+audience remember your presentation.
+Now let's practice.
+Let's go to the fifth slide. Here you have a cycle that's
+written as a list and we want it to be a SmartArt instead.
+The SmartArt should only have one level and it should be
+yellow and you can pick the SmartArt style that you like.
+I also want you to rearrange the text inside the slide by
+moving this text to be in the bottom center of the slide and
+move this text to be in the top left corner of the slide.
+Now pause the video, do the exercise and when you're done,
+continue with the video and I will show you how I did this
+task to compare your step to mine. Welcome back, let's do the
+exercise together.
+So first of all the list we have is a cycle.
+So the type of that SmartArt we choose should be a cycle.
+So we click and insert. SmartArt and we pick one of the
+cycles.
+I think this one looks good.
+Click on it.
+It already has five steps.
+So we will not have to add any steps.
+Let's select the SmartArt and move it a bit to the right so
+we can see the text and then start typing inside the text
+pane. So here's the first thing we copy from the cycle is
+initiation and negotiation and standardization, briefing,
+handing over.
+We now do not need this text.
+So let's delete it.
+So click on the shape and delete.
+Again and delete.
+Select this.
+...
+Delete. Again delete.
+Let's move this text to the bottom center. Like that. Remove
+this one as well.
+We can move that a bit upwards.
+Then we move the SmartArt to the center, we move the
+slide title to the top left and to change the color of the
+SmartArt, we select it, we pick SmartArt from the menu bar,
+Click here. Let's choose yellow.
+Great job! In this task,
+you learned how to use SmartArt in your presentation.
+In the next task you will learn how to animate the content of your
+slide.
